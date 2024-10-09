@@ -1,20 +1,13 @@
 # block_city
 
-A new Flutter project.
+An exam Flutter based application created on live coding session.
 
-## Getting Started
+## Description:
+This application is a simple local weather shower app.
+The app use MVVM with cubit/bloc and clean architecture rules.
+The app has responsive UI.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-
+# Images from the result app on emulator:
 ![plot](./result_images/splash.jpg)
 ![plot](./result_images/home.jpg)
 ![plot](./result_images/refresh.jpg)
